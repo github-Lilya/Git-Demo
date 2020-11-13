@@ -6,6 +6,9 @@ public class Test {
         System.out.println("第一次输出");
 
         System.out.println("test的第二次输出");
+
+        System.out.println("test分支的第二次输出");
+
     }
 
 }
